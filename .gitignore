@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 .env
+=======
+.env
+
+.DS_Store
+
+>>>>>>> Stashed changes
